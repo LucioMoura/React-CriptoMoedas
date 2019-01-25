@@ -17,5 +17,5 @@ npm start
 ```
 ### Compilar e minificar para produção
 ```
-npm build
+npm run-script build
 ```
